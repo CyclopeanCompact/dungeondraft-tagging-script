@@ -1,6 +1,6 @@
 # Dungeondraft Tagging Script
 
-This is a script to automatically generate tags for a Dungeondraft asset pack. I used to use EightBitz's Dungeondraft Tools, but it doesn't run on Wine for arcane and inexplicable reasons. I didn't need the unpacking/repacking tools, just the tag functions, so I made this to help me do it.
+This is a Bash script for Linux to automatically generate tags for a Dungeondraft asset pack. I used to use EightBitz's Dungeondraft Tools, but it doesn't run on Wine for arcane and inexplicable reasons. I didn't need the unpacking/repacking tools, just the tag functions, so I made this to help me do it.
 
 ## Technical Description
 
