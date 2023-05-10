@@ -20,4 +20,5 @@ This script can be placed in an unpacked asset pack's root directory (the folder
 * I tested it with spaces in folder file names and it worked fine. I'm not 100% certain if there are special characters that will break it, though.
 
 ## Download
-Download the .sh file above.
+* [First and likely only release](https://github.com/CyclopeanCompact/dungeondraft-tagging-script/releases/download/Full/generate_tags.sh)
+* Or see the .sh file above, or the Releases in the side column.
